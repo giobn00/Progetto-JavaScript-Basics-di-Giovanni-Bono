@@ -2,12 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta property="og:title" content="Counter" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="assets/img/Home_img.png" />
+    <meta name="description" content="app">
+    <meta name="keywords" content="app, counter">
+    <meta name="author" content="Giovanni Bono">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Counter</title>
+    <link rel="icon" type="image/ico" sizes="512x512" href="assets/img/favicon.ico">
     <link rel="stylesheet" href="assets/css/style.css">
-    <script src="assets/js/script.js"></script>
+    <script src="assets/js/script.js" defer></script>
 </head>
 <body>
+
+    <div class="counter-grid">
+        <div class="output">
+            <div id="counter">0</div>
+        </div>
+        <button id="increment">+</button>
+        <button id="decrement">-</button>
+    </div>
     
 </body>
 </html>
