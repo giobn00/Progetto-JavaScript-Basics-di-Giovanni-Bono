@@ -2,12 +2,7 @@
 
 <!-- PROJECT HEAD -->
 <br />
-<div align="center">
-  <a href="https://github.com/giobn00/Progetto-JavaScript-Basics-di-Giovanni-Bono">
-    <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Progetto-JavaScript-Basics-di-Giovanni-Bono</h3>
+  <h1 align="center">Progetto-JavaScript-Basics-di-Giovanni-Bono</h1>
 
   <p align="center">
     A simple counter App
@@ -57,7 +52,7 @@ As soon as the user enters the page he sees 0 as the counter value, there are tw
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+To create this prject I use the following tools
 
 * [![javascript][javascript.com]][javascript-url]
 * ![HTML][HTML.com]
@@ -70,7 +65,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Getting Started
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+You can copy this project using the command prompt below
 
 1. Clone the repo
    ```sh
