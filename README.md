@@ -15,7 +15,7 @@
     <a href="https://github.com/giobn00/Progetto-JavaScript-Basics-di-Giovanni-Bono"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://count.giovannibono.com/">View Demo</a>
     ·
     <a href="https://github.com/giobn00/Progetto-JavaScript-Basics-di-Giovanni-Bono/issues">Report Bug</a>
     ·
@@ -90,7 +90,7 @@ the count can go to negative numbers so be careful
 
 Giovanni Bono - [@portfolio](https://developer.giovannibono.com/) - me@giovannibono.com
 
-Project Link: []()
+Project Link: [https://count.giovannibono.com/](https://count.giovannibono.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
