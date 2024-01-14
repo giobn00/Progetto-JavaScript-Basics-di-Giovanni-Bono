@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
   # About The Project
 <div align="center">
-  <img src="assets/img/Home_img.png" alt="Logo" height="600">
+  <img src="assets/img/Home_img.png" alt="Logo">
 </div>
 
 This project is a simple app that allows the user to increase or decrease the value of a counter.
